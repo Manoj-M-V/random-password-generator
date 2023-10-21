@@ -4,7 +4,7 @@ This is a simple web-based random password generator that allows you to create s
 
 ## How to Use
 
-1. Follow the website : 
+1. Follow the website : https://manoj-m-v.github.io/random-password-generator/
 
 OR
 
